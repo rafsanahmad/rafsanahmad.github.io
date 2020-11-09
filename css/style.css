@@ -2794,12 +2794,17 @@ h6 {
 
 .h_gallery_item {
   display: inline-block;
-  margin-bottom: 45px; }
+  margin-bottom: 45px;
+  padding: 15px;
+  width: 100%;
+  height: 100%;}
   .h_gallery_item .g_img_item {
     position: relative;
     text-align: center;
     overflow: hidden;
-    border-radius: 5px; }
+    width: 100%;
+    border-radius: 5px;
+    height: 100%;}
     .h_gallery_item .g_img_item:before {
       content: "";
       width: 100%;
