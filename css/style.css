@@ -47,7 +47,18 @@ Table of Content:
 .list {
   list-style: none;
   margin: 0px;
-  padding: 0px; }
+  padding: 0px; 
+}
+
+ .resume_link {
+    list-style: none;
+    padding: 0px;
+    margin-top: 30px;
+ }
+
+ .resume_link li a {
+    text-decoration: underline;
+ }
 
 a {
   text-decoration: none;
@@ -313,7 +324,7 @@ button:focus {
   background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
   margin-bottom: 200px; }
   .home_banner_area .box_1620 {
-    min-height: 700px;
+    min-height: 650px;
     border-radius: 12px;
     position: relative;
     bottom: -200px;
@@ -323,7 +334,7 @@ button:focus {
   .home_banner_area .banner_inner {
     position: relative;
     width: 100%;
-    min-height: 700px;
+    min-height: 650px;
     display: flex; }
     .home_banner_area .banner_inner .banner_content {
       color: #222222;
