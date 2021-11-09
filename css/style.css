@@ -90,18 +90,18 @@ button:focus {
   padding-right: 0px; }
 
 .p_120 {
-  padding-top: 120px;
-  padding-bottom: 120px; }
+  padding-top: 50px;
+  padding-bottom: 50px; }
 
 .p_100 {
-  padding-top: 100px;
-  padding-bottom: 100px; }
+  padding-top: 40px;
+  padding-bottom: 40px; }
 
 .pad_top {
-  padding-top: 120px; }
+  padding-top: 50px; }
 
 .pad_bt {
-  padding-bottom: 120px; }
+  padding-bottom: 50px; }
 
 .mt-25 {
   margin-top: 25px; }
